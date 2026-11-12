@@ -73,5 +73,5 @@
 
 ### Task 5: 公開
 
-- GitHub に public リポジトリ `tsubasakanke/puyo-esports-practice` を作って push、Pages を GitHub Actions で有効化（ユーザーが 2026-10-09 にチャットで許可）
+- GitHub に public リポジトリ `tsuutantsuutan/puyo-esports-practice` を作って push、Pages を GitHub Actions で有効化（ユーザーが 2026-10-09 にチャットで許可）
 - 公開 URL で、ひとり練習・CPU 対戦・オンライン（2 タブ）を確認
